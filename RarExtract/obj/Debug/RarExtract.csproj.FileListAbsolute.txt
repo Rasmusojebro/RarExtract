@@ -1,0 +1,10 @@
+C:\Users\Dell123\source\repos\RarExtract\RarExtract\bin\Debug\RarExtract.exe.config
+C:\Users\Dell123\source\repos\RarExtract\RarExtract\bin\Debug\RarExtract.exe
+C:\Users\Dell123\source\repos\RarExtract\RarExtract\bin\Debug\RarExtract.pdb
+C:\Users\Dell123\source\repos\RarExtract\RarExtract\obj\Debug\RarExtract.csprojAssemblyReference.cache
+C:\Users\Dell123\source\repos\RarExtract\RarExtract\obj\Debug\RarExtract.csproj.CoreCompileInputs.cache
+C:\Users\Dell123\source\repos\RarExtract\RarExtract\obj\Debug\RarExtract.csproj.CopyComplete
+C:\Users\Dell123\source\repos\RarExtract\RarExtract\obj\Debug\RarExtract.exe
+C:\Users\Dell123\source\repos\RarExtract\RarExtract\obj\Debug\RarExtract.pdb
+C:\Users\Dell123\source\repos\RarExtract\RarExtract\bin\Debug\SharpCompress.dll
+C:\Users\Dell123\source\repos\RarExtract\RarExtract\bin\Debug\Ionic.Zip.dll
