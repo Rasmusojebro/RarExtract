@@ -1,0 +1,9 @@
+C:\Users\Dell123\Desktop\Projects\Test\RarExtract\bin\Release\RarExtract.exe.config
+C:\Users\Dell123\Desktop\Projects\Test\RarExtract\bin\Release\RarExtract.exe
+C:\Users\Dell123\Desktop\Projects\Test\RarExtract\bin\Release\RarExtract.pdb
+C:\Users\Dell123\Desktop\Projects\Test\RarExtract\bin\Release\Ionic.Zip.dll
+C:\Users\Dell123\Desktop\Projects\Test\RarExtract\bin\Release\SharpCompress.dll
+C:\Users\Dell123\Desktop\Projects\Test\RarExtract\obj\Release\RarExtract.csproj.CoreCompileInputs.cache
+C:\Users\Dell123\Desktop\Projects\Test\RarExtract\obj\Release\RarExtract.csproj.CopyComplete
+C:\Users\Dell123\Desktop\Projects\Test\RarExtract\obj\Release\RarExtract.exe
+C:\Users\Dell123\Desktop\Projects\Test\RarExtract\obj\Release\RarExtract.pdb
